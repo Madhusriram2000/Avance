@@ -1,0 +1,320 @@
+*{
+    margin:0;padding:0;
+}
+.outbox{
+    background-image:url('../hero-bg.jpg');
+}
+.navbar{margin: 2%;
+    text-align: center;}
+.navbar #logo{margin-left: 10%; 
+    float: left;
+}
+#get{
+    border-radius:50px;
+    border-color:plum;
+    color:plum;
+}
+.navbar a{ text-decoration: none;
+padding-top: 20px; padding-left: 30px; color: black;
+font-family: 'Segoe UI';
+}
+.star{
+    color:blueviolet;
+    width: 236px;height: 30px;
+    font-family:'Segoe UI';
+    background-color: lightpink;
+    border-radius: 15px;
+    display: flex;justify-content: center;
+}
+.data{
+    font-size: 48px; font-family: 'Segoe UI-B';
+}
+.real{
+    font-size: 48px; font-family: 'Segoe UI-B';
+}
+#harness{
+    margin-top: 5px;
+    width: 460px;height: 21.6px;font-size: 16px;font-family: 'Segoe UI-Bold';
+}
+#become{
+    margin-top: 5px;
+    width: 363px;height: 21.6px;font-size: 16px;font-family: 'Segoe UI-Bold';
+}
+.trail{
+    margin-top: 25px;
+    display: flex;justify-content: center;
+    font-family: 'Segoe UI';font-size: 24px;
+    width: 168px; height:40px;
+    background-color: blueviolet;
+    color: aliceblue;
+    border-radius: 25px;
+}
+.learn{ display: flex;justify-content: center;
+    font-family: 'Segoe UI';font-size: 24px;
+    width: 168px; height:40px;
+    background-color: rgb(255, 255, 255);color: black;
+    border-radius:25px;
+    border: 1px black solid;
+    margin-top: 25px;margin-left: 10px;
+
+}
+.boxes{display: flex;}
+.contents{margin-left: 10%;
+    margin-top: 11%;
+    display: flex;
+    flex-direction:row;
+}
+.why{
+    padding-left: 5px;
+    font-family: 'Segoe UI';font-size: 16px;
+}
+.eye{ display: flex;
+    width:144px; height: 30px;border-radius: 25px;
+    background-color:rgb(253, 206, 213);
+    margin-left: 45%;
+    margin-top:5%;
+}
+.eyeimg{
+    padding-top:7px;padding-left: 3px;
+    width: 26px; height: 17px;
+}
+.action{
+    margin-left:38%;margin-top: 2%;
+    width: 480px;height: 48px;
+    font-family: 'Segoe UI-Bold';font-size:36px ;
+}
+.in{
+    width:122px;height:28px;
+    font-family:'Segoe UI';font-size: 21px;
+}
+.time{
+    width:45px; height:28px;
+    font-family:'Segoe UI';font-size: 21px;
+}
+#collect{
+    width:211px; height:21.9px;
+    font-size:16px; font-family: 'Segoe UI';
+}
+#multiple{width:216px; height:21.9px;
+    font-size:16px; font-family: 'Segoe UI';
+}
+#into{
+    width:211px; height:21.9px;
+    font-size:16px; font-family: 'Segoe UI';
+}
+#format{
+    width:51px;height:22px;
+    font-size:16px; font-family: 'Segoe UI';
+}
+.powerful{
+    width:95px;height:28px;
+    font-family:'Segoe UI';font-size: 21px;
+}
+.algorithms{
+    width: 111px;height: 28px;
+    font-family:'Segoe UI';font-size: 21px;
+}
+#with{
+    width:186px;height:21px;
+    font-family:'Segoe UI';font-size:16px;
+}
+#quality{
+    width:190px; height:21px;
+    font-family:'Segoe UI';font-size:16px;
+}
+#techniques{
+    width:226px;height: 22px;
+    font-family:'Segoe UI';font-size:15.7px;
+}
+#enriched{
+    width:100px;height:21px;
+    font-family:'Segoe UI';font-size:16px;
+}
+.valuable{
+    width:180px; height:28px;
+    font-family:'Segoe UI';font-size:19px;
+}
+.insights{
+    width:78px;height:28px;
+    font-size:21px;font-family:'Segoe UI';
+}
+#cleansed{
+    width:212px;height:22px;
+    font-size:16px;font-family: 'Segoe UI';
+}
+#analysed{
+    width:234px;height:22px;
+    font-family: 'Segoe UI';font-size:16px;
+}
+#gather{
+    width:198px;height:22px;
+    font-family: 'Segoe UI';font-size:15.8px;
+}
+#sight{
+    width:58px;height:22px;
+    font-family: 'Segoe UI';font-size:16px;
+}
+.threecnts{
+    margin-top: 4%;
+    margin-left: 5%;
+    padding-left: 5%;
+    display: flex;
+    flex-direction: row;
+}
+.secondbox,.thirdbox{
+    margin-left:215px;
+}
+.thirdbox{
+    margin-left: 225px;
+}
+.antana{
+    margin-top:6%;
+    color:blueviolet;
+    width: 236px;height: 30px;
+    font-family:'Segoe UI';
+    font-size: 17px;
+    background-color:plum;
+    border-radius: 15px;
+    display: flex;justify-content: center;
+}
+.pipelines{
+    margin-top:9%;
+    width:363px;height:48px;
+    font-size:34px;font-family: 'Segoe UI';
+}
+#maintance{
+    margin-top:13%;
+    width: 450px;height: 22px;
+    font-size:16px;font-family: 'Segoe UI';
+}
+#forward{
+    width: 452px;height: 22px;
+    font-size:16px;font-family: 'Segoe UI';
+}
+#platform{
+    width:64px;height:22px;
+    font-size:16px;font-family: 'Segoe UI';
+}
+.seccontainer{
+    margin-top: 4%;
+    margin-left:10%;
+    display: flex;
+    flex-direction:row;
+}
+#lorem{
+    margin-top:1%;
+    width:152px;height:16px;
+    font-size: 12px;font-family: 'Segoe UI';
+}
+#elit{
+    width:172px;height:16px;
+    font-size:12px;font-family:'Segoe UI';
+}
+#diam{
+    width:163px;height:16px;
+    font-size:12px;font-family:'Segoe UI';
+}
+#ut{
+    width:182px;height:16px;
+    font-size:12px;font-family:'Segoe UI';
+}
+#enim{
+    width:180px;height:16px;
+    font-size:12px;font-family:'Segoe UI';
+}
+.social{
+    margin-top:5%;
+}
+#product{
+    width:60px;height:22px;
+    font-size: 16px;font-family: 'Segoe UI';
+}
+#connection,#protocols,#persons,#intergration,#catalog,#pricing,#security{
+    margin-top:0.5%;
+    width:60px;height:22px;
+    font-size:12px;font-family: 'Segoe UI';
+}
+#devel{
+    width:113px;height:22px;
+    font-size:16px;font-family:'Segoe UI';
+}
+#docs,#api,#open,#team{
+    margin-top: 0.5%;
+    font-size: 12px; font-family: 'Segoe UI';
+}
+#company{
+    width:72px;height:22px;
+    font-family: 'Segoe UI';font-size: 16px;
+}
+#careers,#blog,#press{
+    margin-top:0.5%;
+    width:60px;height:22px;
+    font-size:12px;font-family: 'Segoe UI';
+}
+#support{
+    width:62px; height:22px;
+    font-size:16px;font-family: 'Segoe UI';
+}
+#help,#us,#bulletins,#docu,#part{
+    margin-top:0.5%;
+    width:90px;height:22px;
+    font-size:12px;font-family: 'Segoe UI';
+}
+#news{
+    width:83px;height:22px;
+    font-size: 16px;font-family: 'Segoe UI';
+}
+#mail{
+    width: 180px;height: 20px;
+    background-color: aliceblue;
+    text-align:left;
+    padding-top:10px;
+}
+.footer{
+    margin-left: 10%;
+    display: flex;
+   flex-direction:row; 
+}
+.box2,.box3,.box4,.box5,.box6{
+    margin-left:5%;
+}
+.arrow{
+    position: relative;
+    width:200px;
+}
+.arrow i{
+    position:absolute;
+    font-size:1.5rem;
+    left: auto;right:5px;
+    transform: rotate(45deg);
+    margin-top: 5px;   
+}
+@media screen and (max-width:600px) {
+    .contents{margin-left: 10%;
+        margin-top: 11%;
+        display: flex;
+        flex-direction:column;
+    }  
+}
+@media screen and (max-width:600px) {
+    .threecnts{
+        margin-top: 4%;
+        display: flex;
+        flex-direction: column;
+    }
+}
+@media screen and(max-width:600px) {
+    .seccontainer{
+        margin-top: 4%;
+        margin-left:10%;
+        display: flex;
+        flex-direction:column;
+    }
+}
+@media screen and(max-width:640px) {
+    .footer{
+        margin-left: 10%;
+        display: flex;
+        flex-direction:column;
+    }    
+}
